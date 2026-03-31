@@ -1,0 +1,53 @@
+# ===== Font =====
+font-family = "JetBrainsMono Nerd Font"
+font-size = 14
+font-weight = 400
+font-width = 5
+
+# ===== Colors - Catppuccin Mocha =====
+background = #1e1e2e
+foreground = #cdd6f4
+
+cursor-color = #f5e0dc
+cursor-style = block
+
+# Black
+color-0 = #45475a
+# Red
+color-1 = #f38ba8
+# Green
+color-2 = #a6e3a1
+# Yellow
+color-3 = #f9e2af
+# Blue
+color-4 = #89b4fa
+# Magenta
+color-5 = #cba6f7
+# Cyan
+color-6 = #94e2d5
+# White
+color-7 = #bac2de
+
+# Bright
+color-8 = #585b70
+color-9 = #f38ba8
+color-10 = #a6e3a1
+color-11 = #f9e2af
+color-12 = #89b4fa
+color-13 = #cba6f7
+color-14 = #94e2d5
+color-15 = #f5e0dc
+
+# ===== Shell =====
+shell = /bin/zsh
+shell-integration-features = "no-cursor"
+
+# ===== Keybindings =====
+# tmux-like prefix
+unbind-all = true
+
+# ===== Performance =====
+# async-font-loading = false
+# ===== Misc =====
+window-title = "{title} · ghostty"
+theme = ghostty
